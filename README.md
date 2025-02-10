@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Xu Baixin@xubaixinxbx
-- 👀 I’m interested in computer vision and computer graphics, espeically neural rendering, 3d reconstruction, talking head generation
+- 👀 I’m interested in computer vision and graphics, especially neural rendering, 3d reconstruction and generation
 - 📫 How to reach me ...
 
 <!---
